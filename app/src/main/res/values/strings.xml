@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KTLAN2_SQLite</string>
+    <string-array name="category">
+        <item>Mua Sắm</item>
+        <item>Tiền ăn</item>
+        <item>Tiền nhà</item>
+        <item>Tiền điện</item>
+        <item>Tiền nước</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
